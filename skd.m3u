@@ -59,3 +59,5 @@ https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1,RiverTv
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
