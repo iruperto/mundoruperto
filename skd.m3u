@@ -1,64 +1,38 @@
 #EXTM3U
-#EXTINF:-1,Telefe
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/3_.m3u8?token=4fWxtm7I6lPB6tVOM4-tng&expires=1779877140
 #EXTINF:-1,El Trece
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=HcthGq5GAYrJYueJd3TqEg&expires=1779877147
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=kUJFo3et-yDNQ8prGoiI8Q&expires=1779939580
 #EXTINF:-1,Las Estrellas
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=eJilxUpauOnQboQG8g2Mcw&expires=1779877154
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=edLs6mUIRrvmSP9ThW8n7Q&expires=1779939586
 #EXTINF:-1,Space
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/56_.m3u8?token=EjspUkoXyVvZxMQI7g2C4w&expires=1779877160
-#EXTINF:-1,Star Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/54_.m3u8?token=sNOncbCrq3hNSoTSS40CJw&expires=1779877167
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/56_.m3u8?token=UGaHczifHvwC1AY753MIEg&expires=1779939593
 #EXTINF:-1,Tnt Series
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/53_.m3u8?token=FpWMMJma0BP57z-ngcz-LA&expires=1779877173
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/53_.m3u8?token=vPuFEtTBtEHfHMJfBryyPw&expires=1779939605
 #EXTINF:-1,Tnt
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/52_.m3u8?token=t7l3FCQtJVteSZ5GZAFW9w&expires=1779877180
-#EXTINF:-1,Universal Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/49_.m3u8?token=t3y0F_HynAk2pL6mpbr5og&expires=1779877186
-#EXTINF:-1,Cinemax
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/55_.m3u8?token=uyctB771--qucRs5wdiZ0A&expires=1779877193
-#EXTINF:-1,Syfy
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/57_.m3u8?token=2xQ4rUcnvKOjwJzUvlDTlg&expires=1779877200
-#EXTINF:-1,Fx
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/60_.m3u8?token=dgcQcV8sM1dD1ZFsOfHn6w&expires=1779877208
-#EXTINF:-1,Warner Bros Tv
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/58_.m3u8?token=TDHKnSZL-BwnPyVoJffc0w&expires=1779877214
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/52_.m3u8?token=_Zn1ErwaSsgOJ8QqQ_yhIA&expires=1779939612
 #EXTINF:-1,Cinecanal
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/59_.m3u8?token=wTJdDg5J8SWGj-XW2lUrjA&expires=1779877223
-#EXTINF:-1,Amc
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/63_.m3u8?token=6Has57OJQiNeIsjfVBqCxA&expires=1779877229
-#EXTINF:-1,Studio Universal
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/64_.m3u8?token=qGYtsVXbuDsQWWpuJbq_jQ&expires=1779877236
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/59_.m3u8?token=4wfMtI5h3NtRq1Z6nU3wsg&expires=1779939651
 #EXTINF:-1,Canal Sony
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/72_.m3u8?token=NIHUiNg4XHnlWy4pU7sEDg&expires=1779877244
-#EXTINF:-1,Discovery Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/37_.m3u8?token=V1zwkw8vC7b3wdaLKaoovA&expires=1779877251
-#EXTINF:-1,History
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/44_.m3u8?token=w3IVwbptt_t4JJP9m0xMCg&expires=1779877258
-#EXTINF:-1,Nat Geo
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/47_.m3u8?token=4Rhz7-btWeh0ZyhwUt_1Bg&expires=1779877265
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/72_.m3u8?token=SPblOoI_octTu6k1iftWiw&expires=1779939671
 #EXTINF:-1,Directv Sports
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/3_.m3u8?token=fm7XjH0wpQEm1rcAoAxPyQ&expires=1779866471
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/3_.m3u8?token=YQAcC-cljmhtLy-Xlmf9FQ&expires=1779928897
 #EXTINF:-1,Directv Sports 2
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/7_.m3u8?token=TWpo4VDbwTj9Qz6wiLW6kQ&expires=1779866478
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/7_.m3u8?token=pwBwfuCw6VLBJL9YiyS10w&expires=1779928904
 #EXTINF:-1,Directv Sports Plus
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/11_.m3u8?token=bdui9jOSY4_xfG44BpuEHQ&expires=1779866486
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/11_.m3u8?token=mTAJxZD98eQ_DfipaZniSw&expires=1779928910
 #EXTINF:-1,Fox Sports Premium
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/12_.m3u8?token=AVv1wOnvNLvKdOKMwQGzrQ&expires=1779866491
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/12_.m3u8?token=CpYJc5heeBBlXFEveiEfhw&expires=1779928917
 #EXTINF:-1,Tnt Sports
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=FIN5G3AXkvI7EFnfGcXSKw&expires=1779866499
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=UEK-3ki1MjweyU6aj8ISwA&expires=1779928923
 #EXTINF:-1,Espn Premium
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/5_.m3u8?token=jiWJzaa5Nn5-f4sapvr8RA&expires=1779866506
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/5_.m3u8?token=_gCEqMdnJyjtQTIwKm6Pvg&expires=1779928929
 #EXTINF:-1,Espn
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=SSIqdvlkQQnu-Mv-EYGojA&expires=1779866514
-#EXTINF:-1,Espn 2
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/14_.m3u8?token=FvHSNhQA-L0sNr17SFKB-g&expires=1779866520
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=Y6c49-dwAS4jgGoEmlvxcA&expires=1779928936
 #EXTINF:-1,Espn 3
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/15_.m3u8?token=Ef5pMC2eNa3DQwCk3aN1Hw&expires=1779866526
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/15_.m3u8?token=lV9-0q0zHbQLDFRRKWwUSg&expires=1779928948
 #EXTINF:-1,Espn 4
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/23_.m3u8?token=_lxUGbfCQUwqB79RkFVHvg&expires=1779866533
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/23_.m3u8?token=XrdGVaV2FQbvr-WWJdOfQQ&expires=1779928955
 #EXTINF:-1,Espn 5
-https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/24_.m3u8?token=iW-3x3Vkxfbl63lIF_HQWQ&expires=1779866540
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/24_.m3u8?token=WuF-RxdWrLba-WG7ABIvFQ&expires=1779928962
 #EXTINF:-1,Hits Mexicanos
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
 #EXTINF:-1,Retro Plus Tv
