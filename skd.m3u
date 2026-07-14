@@ -37,3 +37,7 @@ https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/37_.m3u8?token=
 https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/44_.m3u8?token=zdo8ayqKc7mil-CJTTEAaQ&expires=1784081221&sig=0cff52864105d6c8f58d6c1d569fffb0eff696b211ae6fa85da4e29fa4f2c14b
 #EXTINF:-1,Nat Geo
 https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/47_.m3u8?token=wNH9UA2PiZ1SZhchkZ12iA&expires=1784081235&sig=86f85d0ecc15180c197272664c16f480b00edb6d7b008762d49a086aaccff5da
+#EXTINF:-1,Direct
+https://khala.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=45.165.44.132&token=42484476faee7be991df7aabe5a3d12ca248b861-45-1784098296-1784044296
+#EXTINF:-1,disn
+https://khala.skylivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=45.165.44.132&token=e36bae2915c865e2b6e9455adb2d91958b6ac36b-b0-1784098387-1784044387
