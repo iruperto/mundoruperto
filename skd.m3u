@@ -37,3 +37,10 @@ https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/37_.m3u8?token=
 https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/44_.m3u8?token=BAiCXB5HG1vOsB-A8I-Dvg&expires=1784170580&sig=77c6cfdb7ba6020634b0c6741d2f6cc40e69e70819bb4b93781cf0fa6423415a
 #EXTINF:-1,Nat Geo
 https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/47_.m3u8?token=N1ukAliB2byYvarO7lG0vw&expires=1784170595&sig=27cee00ba1767ff0fd76d4f88b2e8bed60dcdea48e8765d31cf7b5012a06c53f
+#EXTINF:-1,DIREC
+https://khala.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=45.165.44.132&token=5030b2c791016f5c0f0106e08e8c25b9998b05c8-5f-1784181973-1784127973
+#EXTINF:-1,ESTARPLUS
+https://khala.skylivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=45.165.44.132&token=6375e16f1008811572a45802be54d5dd90bbe8b8-81-1784182046-1784128046
+#EXTINF:-1,TELEF
+https://khala.skylivehd.com/telefe/tracks-v1a1/mono.m3u8?ip=45.165.44.132&token=3638d6b0aab0948e8c752dcab61765b944caac3f-ec-1784182094-1784128094
+#EXTINF:-1,
