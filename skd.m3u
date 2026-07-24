@@ -1,43 +1,61 @@
 #EXTM3U
-#EXTINF:-1,Telefe
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/3_.m3u8?token=HfiV6AjQ_UZeRmp6LBx9IQ&expires=1784080981&sig=88584bef112f2cd258d0c7b00e53696b5c290cb141ce0089cc459b991445fbbf
+#EXTINF:-1,Telefe1
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/3_.m3u8?token=FcEf5Tu7rUkhgh59seQSiw&expires=1784857288&sig=157f1588723b8e8bb73f7d27b37b141416630bf4645fd1235dc7a6f8f306e321
 #EXTINF:-1,El Trece
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=U01_nDuQj4Wxca0UQxlUvA&expires=1784080996&sig=030e6549d77edaa83fe69ffb8db9266ff036a7132f9443c9297777fc10760df7
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=aQn5_Fh6E27FFatmPAsgsQ&expires=1784857302&sig=e9e1fca006f208dbfeca618e1fba015e34f3512fa42ffb164641967cecbbfb32
 #EXTINF:-1,Las Estrellas
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=zb-2jGBILBbO7v5q6jEhBg&expires=1784081010&sig=76fc4303381d3b2fe9c2c0ab8d76217afbde5516407e62e3e9e5848edabde44b
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=dHSqqa5V2-t5mnqzSjVqiQ&expires=1784857316&sig=fc11c41477f77a453169954a923a153a76c92f236d3bfac64deaa4396dd069ca
 #EXTINF:-1,Space
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/56_.m3u8?token=18jEe40LKfxANPEHJbsYWQ&expires=1784081024&sig=13a9408ca902940569ae7e4158e6d8ea21d705c53814b641580d674d081b8197
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/56_.m3u8?token=Ji0J4BlQnXmLcF8AKq_F9A&expires=1784857330&sig=6207d176fa85621a9f70f9663f2e1bad09eb6220707f53ca8fdfe012e67a6f63
 #EXTINF:-1,Star Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/54_.m3u8?token=ENXVvBjVV4azluvZVtN7tw&expires=1784081038&sig=9d4d830c2e631569b036396da6980031e9978eb01bcaa2931044953d66fcb71c
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/54_.m3u8?token=2PuWwDl1CXGFYGUGecFFdQ&expires=1784857344&sig=be65f0a888ec3fd9a8d18bc09d90d50af73d7e60dd0f46f7119dda6177a6b89b
 #EXTINF:-1,TNT Series
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/53_.m3u8?token=QbjceRnojy_WWR4_uTAsxA&expires=1784081052&sig=6b0cebf241a29441a5b42ae3e4c730c93164927b8273bfe0010b832d8e15dd39
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/53_.m3u8?token=hEYJ398_WkvsKcB7qmH6wg&expires=1784857358&sig=78c30e283186f7791dda05bb59a007519df8671c163128a3d6915236ff71b206
 #EXTINF:-1,TNT
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/52_.m3u8?token=slUPVsHaAudDMK1ezAQ8gA&expires=1784081066&sig=6af6091cd1af5d91275f42358ab074e2d967f36ba22ca8b335e327fcaca4b399
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/52_.m3u8?token=2_ECIGpaGU3BEHJdnp5OhA&expires=1784857372&sig=d25a21e19db3801e46ff7fe8ff8f4c8a77b1d34837c7221520eeeba51b4e39dd
 #EXTINF:-1,Universal Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/49_.m3u8?token=4ultWxrVXlhPR36I6iXKcQ&expires=1784081080&sig=dc70be5fe1a3671c91a5258979962b8e137e8e2023cb9ba9d335dc29799b0670
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/49_.m3u8?token=1OY69RBUhXFkK1qfNSZvsg&expires=1784857386&sig=842c766540fed66702e09c20f6b0e38f9c9284069754a58a0628274f04d4efd5
 #EXTINF:-1,Cinemax
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/55_.m3u8?token=ShkQfWC4bk1fVRXKmD8sjg&expires=1784081094&sig=b2b7329faf37cc8fd955d2e2ce95490b52585c0cbe240fe2de0453164111d9ef
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/55_.m3u8?token=8LN1AI7Salw3yopFjKoUGw&expires=1784857401&sig=e75ec95f250dc7b0d1cb36e016a0a70bafd3a3edc4d227870a279d1764feff26
 #EXTINF:-1,Syfy
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/57_.m3u8?token=Qr3ma5KCapo-l0J8WI19gQ&expires=1784081108&sig=83027c58336a3ca38b1c75f127954ab066028a0c83d31e01fbaef4af4269dde3
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/57_.m3u8?token=YPhIeI6hLBcPtfxWoGSw4g&expires=1784857415&sig=fd85fdd924bc842b231fdde4eb3b68c1a1000980a78ce49144c2207d0b50ebbf
 #EXTINF:-1,FX
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/60_.m3u8?token=fKu_y97jqlVVTLoLnNETFw&expires=1784081123&sig=73968f6dc105c0bedd52b9d88e55698995d3812fc45d94ea27ba1ff215bd1e32
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/60_.m3u8?token=84olFGTjhl0phKk3qvtJzg&expires=1784857429&sig=2969f5c6c8c2ffff82cbc152df937cf61be36e2bb4356b9c2d18c3587f9e675d
 #EXTINF:-1,Warner Bros TV
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/58_.m3u8?token=rGhl-XgudPU4WaVPo-E7Ew&expires=1784081137&sig=04e6c083d4e062db90ddddfb3548cbd249ef10d0f66329943a900f04f885efa3
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/58_.m3u8?token=0t4Cvx-X_JtW9R2zcAtpFA&expires=1784857443&sig=4e3f3d52d9a1152fde83dd7632b2078446c2b8402999825f8a2d1ca75cec7a08
 #EXTINF:-1,Cinecanal
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/59_.m3u8?token=lw7fnvkbS3KBQO8XxJZNhQ&expires=1784081151&sig=cce27f4e3fa83a7b3d1a15fda2ca91034b3e7710ca5f5de67f16328f1be084af
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/59_.m3u8?token=W_lxU8DWpP04ZVgt0gFtzg&expires=1784857457&sig=a0e30aed345aba560a650d64e6af98b2170860f4ff7b325d5518b0b37c955d87
 #EXTINF:-1,AMC
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/63_.m3u8?token=rWlNrdzjYWqmRlIE3GTKxQ&expires=1784081165&sig=14e2aa53c589cf1c3c0881b6988a564b50599cebc1a037fa9814131cdde4bf48
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/63_.m3u8?token=WOHgmJ3VgrhFVyqW7m6N0w&expires=1784857471&sig=a08516f65cb7edc6b8083cb30c67ad51bc743cb4a4593caaafaa5d7d5d7672ad
 #EXTINF:-1,Studio Universal
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/64_.m3u8?token=dvmYQrxPDC4MvY_kzkX9Wg&expires=1784081179&sig=80a1791a0d2188c0aa3a7413279daf1d7df8d5ce48a5391eb175903340bb7f0d
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/64_.m3u8?token=tY017TblxIDloWu2nKbbwQ&expires=1784857485&sig=f858a041a1d71964c209eac1cea9286a9ea1dfa7296d5b94619d75c8f783e7a7
 #EXTINF:-1,Canal Sony
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/72_.m3u8?token=o1aUnY2GvNdIZVYPuOEpiQ&expires=1784081193&sig=9827092aa49e72f5dbbdf1daade91fbc2ffa00cf8e94d3cebacc632bda9d8306
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/72_.m3u8?token=6bVfOMZ3LT-ra_Fex-hP3A&expires=1784857499&sig=8539540c63defff4961f539d4c227c173918ed42bbb0768cf09025d305ab5b19
 #EXTINF:-1,Discovery Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/37_.m3u8?token=ajghQdzsiQO76vuSdWGTEQ&expires=1784081207&sig=d31dad54983002c6774033517bcc3ac89516d32af4bbcdade7b86942704a749b
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/37_.m3u8?token=20Rit51Ky9tcG0d-3eDejQ&expires=1784857513&sig=9d68d47bd29edf18e260d870a10d5d949900e274efdff1a6b71ed56a8985fa9f
 #EXTINF:-1,History
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/44_.m3u8?token=zdo8ayqKc7mil-CJTTEAaQ&expires=1784081221&sig=0cff52864105d6c8f58d6c1d569fffb0eff696b211ae6fa85da4e29fa4f2c14b
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/44_.m3u8?token=-DK1BDnAWFkFnFjqM_qUvQ&expires=1784857527&sig=dd0f7054848f7269042313a55342107bfd14707c9789a39dd1aee9149d5ca706
 #EXTINF:-1,Nat Geo
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/47_.m3u8?token=wNH9UA2PiZ1SZhchkZ12iA&expires=1784081235&sig=86f85d0ecc15180c197272664c16f480b00edb6d7b008762d49a086aaccff5da
-#EXTINF:-1,Direct
-https://khala.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=45.165.44.132&token=42484476faee7be991df7aabe5a3d12ca248b861-45-1784098296-1784044296
-#EXTINF:-1,disn
-https://khala.skylivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=45.165.44.132&token=e36bae2915c865e2b6e9455adb2d91958b6ac36b-b0-1784098387-1784044387
+https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/47_.m3u8?token=i-pHhSeF40ZHdafo4isVxw&expires=1784857541&sig=2941a74c36819c89eedda6b1ec4bbd7879be4d222ddbf9dd1150a5d745735eda
+#EXTINF:-1,DirecTV Sports
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/3_.m3u8?token=dOVtBYe5D00JPOCZmj8SgA&expires=1784857556
+#EXTINF:-1,DirecTV Sports 2
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/7_.m3u8?token=4FDZ_ZBR-C00gNCmGYYiIA&expires=1784857576
+#EXTINF:-1,DirecTV Sports Plus
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/11_.m3u8?token=yixD9Qygsfy0i7_oh6rnGA&expires=1784857597
+#EXTINF:-1,Fox Sports Premium
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/12_.m3u8?token=q9jpp1JWmsPPJaevMfhYVw&expires=1784857616
+#EXTINF:-1,TNT Sports
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=Rh36wJmEUxj-SghETyzDLA&expires=1784857637
+#EXTINF:-1,ESPN Premium
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/5_.m3u8?token=TxlQdYoJ4u5JO_xrZYRpgw&expires=1784857657
+#EXTINF:-1,ESPN
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=kH8o6UBuP8NaW8c1M1RHow&expires=1784857677
+#EXTINF:-1,ESPN 2
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/14_.m3u8?token=SAPHZs62zQT8WwVDjntD7w&expires=1784857697
+#EXTINF:-1,ESPN 3
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/15_.m3u8?token=DMl8q7SmP-zbawXpx9DCXA&expires=1784857706
+#EXTINF:-1,ESPN 4
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/23_.m3u8?token=LEGaSMZtE6DyNMjysJJqRg&expires=1784857727
+#EXTINF:-1,ESPN 5
+https://deportes.ksdjugfsddeports.com:9092/NDUuMTY1LjQ0LjEzMg==/24_.m3u8?token=0vK4utrkY4N4cnMPkyfZ0w&expires=1784857747
