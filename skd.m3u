@@ -1,39 +1,29 @@
 #EXTM3U
 #EXTINF:-1,Telefe
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/3_.m3u8?token=CMXw8fkpjRLlkm_PeH2ZZw&expires=1785721288&sig=9f400f7c3782035190e529d5a18737b74d82bf1f2a06567e85798bbe35173755
+https://regionales.saohgdasregions.fun/playlist.php?id=3_&sig=48c94f7eb57b3b9fc1e3b29c333b237106d0e0111c49f010e69f651499ed60e3
 #EXTINF:-1,El Trece
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/4_.m3u8?token=aKfvlaWmYlFFkLJW6A5pjg&expires=1785721297&sig=670d0c5e077eda552d731e91c13b9fd92178c09f988a4edc9f3e9bee73ef750b
-#EXTINF:-1,Las Estrellas
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/13_.m3u8?token=lXMtwbLXfwGfHEDxN4nY5g&expires=1785721312&sig=088c0250c7013aa440a4cb04a21cd30f083f5a0c72e81bc512aedcfbe73fac25
+https://regionales.saohgdasregions.fun/playlist.php?id=4_&sig=654f85b0c62659a15ea55c509d7b432587f04eed6e0caa58319e235f453e9875
 #EXTINF:-1,Space
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/56_.m3u8?token=j9SKxWiayBB4461__ycWzw&expires=1785721327&sig=3b548419ad57213e40d0a9f522318e2abba4dff25ed26f57e6e5cacb26a26801
+https://regionales.saohgdasregions.fun/playlist.php?id=4_&sig=654f85b0c62659a15ea55c509d7b432587f04eed6e0caa58319e235f453e9875
 #EXTINF:-1,Star Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/54_.m3u8?token=uZsUEqS4YUJ9pYhgzbmqMw&expires=1785721342&sig=7db04cad14700299c03f6a371d57e0cffa9eadac5f124053d485dbe3d2464997
+https://regionales.saohgdasregions.fun/playlist.php?id=54_&sig=1ff50a87dcaaab1bf167306350ded0321ef14ea0f3e0f96bddac2b4f57bb2a57
 #EXTINF:-1,TNT Series
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/53_.m3u8?token=rU6fwyxeqsWWGRaNXMxx3Q&expires=1785721358&sig=a681d6f461fcae6620318a959ecf22bd5610f99fe4a1c97e9935d66c4a6e14ac
+https://regionales.saohgdasregions.fun/playlist.php?id=53_&sig=b60725d7c206820e48c3454988053b5b0024196843c08907f78c7258c63ef098
 #EXTINF:-1,TNT
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/52_.m3u8?token=nD4j1ISpduTKsU5qBJBz2g&expires=1785721373&sig=f1584b9a6e44dfcb18b4678f8c6043273875009e1f1f5d9de35b5a2c3dce037b
+https://regionales.saohgdasregions.fun/playlist.php?id=52_&sig=813ca044a5a188290658bed597076f166624220182836cc1d5b7f682be11cedc
 #EXTINF:-1,Universal Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/49_.m3u8?token=Z74xkwZMEtFWOdqa2tcTHA&expires=1785721388&sig=9ca10b5d797dd5d9b871191cdf6a3db41c8e42f08a62f475a0443fa29715036e
+https://regionales.saohgdasregions.fun/playlist.php?id=49_&sig=f437616087d845b2c828586d50907229d6c85093c6ea445047250899ba8edd53
 #EXTINF:-1,Cinemax
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/55_.m3u8?token=Yws7fb-rjp6MZM5_Fg3XWQ&expires=1785721403&sig=96974cb3caff64b9b3cd9b75c80fce962e2d4c221550217399da89d62c59010d
-#EXTINF:-1,Syfy
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/57_.m3u8?token=MYLihU7633UtBvaMrAUOhg&expires=1785721418&sig=1450caf51b0bc2008993a4aea5515c96954e8d8621d44f4ffa1d33dc84ebddbb
-#EXTINF:-1,FX
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/60_.m3u8?token=Po9pLfKgpvD6x5MMugjkDw&expires=1785721433&sig=d3cacbaeb2eae3cd331db5d959ec8135187a4d29b998928f9751043a5df116b7
+https://regionales.saohgdasregions.fun/playlist.php?id=55_&sig=f73d48b13455d9fa86e20f736fb525d08788c9c50f08c3d177f2855bb962ffb7
 #EXTINF:-1,Warner Bros TV
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/58_.m3u8?token=W8C2tXoWQPVbBvLpBsDmwQ&expires=1785721448&sig=51736843b371ede584ae0c33f7609824b8cbfcf22668ca848a02be0935be6aaf
+https://regionales.saohgdasregions.fun/playlist.php?id=58_&sig=50dbf40bb50da80456816529d1c1d86db9f5fa0a682803ea185664591d8143ba
 #EXTINF:-1,Cinecanal
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/59_.m3u8?token=8HRbsznTKGxC3IWuipQU2g&expires=1785721485&sig=2565c67be9432d79d4cacc3482d3670c9fe34793b7951698e8617379cf547e6b
+https://regionales.saohgdasregions.fun/playlist.php?id=59_&sig=40bc022195cb18b8a1caba4ba0fdaa72930f2ba2bd8fffda1e24632334a01d68
 #EXTINF:-1,AMC
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/63_.m3u8?token=q9kQVLPkF47kqjTTNUi-Fw&expires=1785721505&sig=a2ae4ff9e54868e7bf7c000b251f0fc467daf5cf8f26fe0e2cb3fc8dc04fe3e6
+https://regionales.saohgdasregions.fun/playlist.php?id=63_&sig=c3969029117cd6267bc4f899cce677e73942be12540e4f531317ea4a160396fa
 #EXTINF:-1,Studio Universal
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/64_.m3u8?token=bmjwyusmrju6JQSbMo9K8g&expires=1785721518&sig=d4b5fdb5af0575ba2da5525156256ac1216a275d99d3936fe71f38f44099e02a
+https://regionales.saohgdasregions.fun/playlist.php?id=64_&sig=f7e136dda83f657f2af8344454d271b2b73bf87b225709bbdb116ff7f3b0d288
 #EXTINF:-1,Canal Sony
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/72_.m3u8?token=ENOv7cxrC8gjFBbDyTwuKA&expires=1785721533&sig=e63d2770c8fd1c073d2a3db8c8120b7e77124a90fc220db078f96d65cfbff699
+https://regionales.saohgdasregions.fun/playlist.php?id=72_&sig=678d369c2fa6abbd9f16906fc3241c0e363c7e8f6700040f35f48af5f9c081a0
 #EXTINF:-1,Discovery Channel
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/37_.m3u8?token=JINRtzt4gsqr34tB9yrCwQ&expires=1785721548&sig=ba5eb69ec16d41fffdf8a1506ed0e3d414ab6ec97920505f098e876092c49ae4
-#EXTINF:-1,History
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/44_.m3u8?token=wvZsxcxMvG7oVYL2jd0r0g&expires=1785721563&sig=f5acc42f27abe5d062abd4a299068e6057ca3e7e821508445ecf6418378867b1
-#EXTINF:-1,Nat Geo
-https://regionales.saohgdasregions.fun:9092/NDUuMTY1LjQ0LjEzMg==/47_.m3u8?token=XIbteOO0oKFRBQaaeG7kuw&expires=1785721579&sig=e41c79b762a65ffea248e058b75340af28a3f40e1efa237fcddd1c730392a0b5
+https://regionales.saohgdasregions.fun/playlist.php?id=37_&sig=42865c1668456abad1d32a8044ea77efd1c3da2105e5ac2830e65d21b8a02069
